@@ -1,2 +1,2 @@
 # artificial_intelligence_watchdog
-Watch the Artificial Intelligence 
+Watch the Artificial Intelligence development
